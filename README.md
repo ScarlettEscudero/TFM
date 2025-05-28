@@ -5,4 +5,5 @@ This repository contains the code used for the simulation study and empirical il
 - lib folder: Contains all Genetic Algorithm functions.
 
   Feel free to reach out for any questions or improvements at: scarlett.escudero@estudiante.uam.es
+  
   Special thanks to: Miguel A. Sorrel, Francisco J. Abad, and Rodrigo S. Kreitchmann!
